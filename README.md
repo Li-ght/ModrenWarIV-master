@@ -33,6 +33,4 @@ https://b23.tv/av12768605/p1
 * 来自up主：爽身粉大哥 的现代战争4beta版解说：https://b23.tv/av93633141 
 
 # 现代战争4 最新概况
-当前版本：1.0.1 
-* 使用MYSQL储存数据 
-* 邮箱验证系统-防止小号泛滥 
+* 请查阅[最新的更新内容](https://github.com/Li-ght/ModrenWarIV-master/blob/master/%E6%9B%B4%E6%96%B0%E8%B5%84%E8%AE%AF/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC.md)
