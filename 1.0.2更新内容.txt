@@ -1,0 +1,11 @@
+
+
+# 1.0.2 更新内容
+
+*管理员执勤头顶显示执勤状态
+*增加了更多兼容[weapon-config](https://github.com/oscar-broman/samp-weapon-config)的措施
+*增加了非法、违规、不良昵称（366个词组）的检测
+*管理员三级可使用addfname添加或delfname删除违规词组
+*增加了TOP 10榜单 杀敌与威望排行
+*改进和优化了部分代码，重写了TDM模式的代码结构
+*重新调整了武器伤害平衡
