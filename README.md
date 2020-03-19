@@ -5,6 +5,9 @@ SAMP Modren Warfare是中国原创的SAMP服务器，诞生于2015年6月
 期间开创了国内绝无仅有的SAMP战队联赛 - ASG
 历经三代, 分别是现代战争1 现代战争2以及现代战争3全境风暴
 
+# 现代战争4 最新概况
+* 请查阅[最新的更新内容](https://github.com/Li-ght/ModrenWarIV-master/blob/master/%E6%9B%B4%E6%96%B0%E8%B5%84%E8%AE%AF/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC.md)
+
 # 历程
 * 2015年6月，现代战争1诞生
 * 2015年7月17日，现代战争2出台并由现代战争管理组和ATLAS会议研究所共同负责
@@ -31,6 +34,3 @@ https://b23.tv/av12768605/p1
 * 第一届asg联赛相关信息：http://tieba.baidu.com/p/4478082722 
 * 第二届asg联赛相关信息：http://tieba.baidu.com/p/5243958609 
 * 来自up主：爽身粉大哥 的现代战争4beta版解说：https://b23.tv/av93633141 
-
-# 现代战争4 最新概况
-* 请查阅[最新的更新内容](https://github.com/Li-ght/ModrenWarIV-master/blob/master/%E6%9B%B4%E6%96%B0%E8%B5%84%E8%AE%AF/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC.md)
